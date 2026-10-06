@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "lint:html": "html-validate index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/antefix1412/TD-Versionning/issues"
   },
-  "homepage": "https://github.com/antefix1412/TD-Versionning#readme"
+  "homepage": "https://github.com/antefix1412/TD-Versionning#readme",
+  "devDependencies": {
+    "html-validate": "^10.11.3"
+  }
 }
