@@ -1,0 +1,20 @@
+{
+  "name": "repo_td",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antefix1412/TD-Versionning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antefix1412/TD-Versionning/issues"
+  },
+  "homepage": "https://github.com/antefix1412/TD-Versionning#readme"
+}
